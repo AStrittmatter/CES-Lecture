@@ -3,4 +3,5 @@ install.packages('glmnet')
 install.packages('grf')
 install.packages('tidyverse')
 install.packages('plotmo')
-
+install.packages('AER')
+install.packages('fBasics')
