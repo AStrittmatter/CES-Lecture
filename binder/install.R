@@ -5,3 +5,5 @@ install.packages('dplyr')
 install.packages('plotmo')
 install.packages('AER')
 install.packages('fBasics')
+install.packages('tidyverse')
+
